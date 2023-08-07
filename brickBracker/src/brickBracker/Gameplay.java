@@ -91,7 +91,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener{
 		
 		g.dispose();
 	}
-
+	
 	@Override
 	public void actionPerformed(ActionEvent e) {
 		if (play) {
